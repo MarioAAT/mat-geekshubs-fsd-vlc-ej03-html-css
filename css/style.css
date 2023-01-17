@@ -1,0 +1,30 @@
+body{
+    background-color: thistle;
+    font-size: larger;
+}
+h1{
+    background-color: tan;
+}
+
+h2{
+    color: mediumslateblue;
+}
+
+h3{
+    color: blueviolet;
+}
+
+p{
+    color: cadetblue;
+}
+span{
+    color: cornflowerblue;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    color: cornflowerblue;
+}
